@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CNN",
+    "rssUrl": "http://rss.cnn.com/rss/edition.rss"
+  },
+  {
+    "name": "The Guardian",
+    "rssUrl": "theguardian.com/world/rss "
+  },
+  {
+    "name": "The Wall Street Journal",
+    "rssUrl": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+  },
+  {
+    "name": "BBC",
+    "rssUrl": "http://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+    "name": "New York Times",
+    "rssUrl": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  {
+    "name": "Fox News",
+    "rssUrl": "http://feeds.foxnews.com/foxnews/world"
+  },
+  {
+    "name": "NBC News",
+    "rssUrl": "http://feeds.nbcnews.com/nbcnews/public/news"
+  },
+  {
+    "name": "Daily Mail",
+    "rssUrl": "https://www.dailymail.co.uk/news/worldnews/index.rss"
+  },
+  {
+    "name": "Huffington Post",
+    "rssUrl": "https://www.huffpost.com/section/front-page/feed"
+  },
+  {
+    "name": "The Telegraph",
+    "rssUrl": "https://www.telegraph.co.uk/rss.xml"
+  }
+]
